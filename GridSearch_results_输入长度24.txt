@@ -1,0 +1,72 @@
+GTC_Transformer_1 in Solar with pred_len 24, best mae: 0.03788003325462341, best mse: 0.005866618826985359, best rmse: 0.07659385353326797
+configs: {"d_model": 256, "d_layers": 2, "block_layers": 3}
+-----------------------------------------------------------------
+GTC_Transformer_2 in Solar with pred_len 24, best mae: 0.03734742850065231, best mse: 0.006146240513771772, best rmse: 0.0783979594707489
+configs: {"d_model": 512, "d_layers": 3, "block_layers": 2}
+-----------------------------------------------------------------
+iTransformer_1 in Solar with pred_len 24, best mae: 0.04445868358016014, best mse: 0.007751361932605505, best rmse: 0.08804181963205338
+configs: {"d_model": 512, "d_layers": 3, "block_layers": 1}
+-----------------------------------------------------------------
+Informer_1 in Solar with pred_len 24, best mae: 0.0368955098092556, best mse: 0.006178190931677818, best rmse: 0.07860147207975388
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+GTC_Transformer_1 in Solar with pred_len 48, best mae: 0.03876061365008354, best mse: 0.006044945679605007, best rmse: 0.07774925231933594
+configs: {"d_model": 256, "d_layers": 1, "block_layers": 3}
+-----------------------------------------------------------------
+GTC_Transformer_2 in Solar with pred_len 48, best mae: 0.03836078941822052, best mse: 0.006123345345258713, best rmse: 0.07825180888175964
+configs: {"d_model": 256, "d_layers": 2, "block_layers": 3}
+-----------------------------------------------------------------
+iTransformer_1 in Solar with pred_len 48, best mae: 0.046694740653038025, best mse: 0.007883863523602486, best rmse: 0.088791124522686
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+Informer_1 in Solar with pred_len 48, best mae: 0.03759688138961792, best mse: 0.0064240023493766785, best rmse: 0.08014987409114838
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+GTC_Transformer_1 in Solar with pred_len 96, best mae: 0.0386856310069561, best mse: 0.005939806811511517, best rmse: 0.07707013934850693
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 3}
+-----------------------------------------------------------------
+GTC_Transformer_2 in Solar with pred_len 96, best mae: 0.0385299026966095, best mse: 0.00609556445851922, best rmse: 0.07807409763336182
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+iTransformer_1 in Solar with pred_len 96, best mae: 0.04909287393093109, best mse: 0.008212774991989136, best rmse: 0.0906243622303009
+configs: {"d_model": 512, "d_layers": 3, "block_layers": 1}
+-----------------------------------------------------------------
+Informer_1 in Solar with pred_len 96, best mae: 0.03844810277223587, best mse: 0.006606804672628641, best rmse: 0.08128225058317184
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+GTC_Transformer_1 in Wind with pred_len 24, best mae: 0.11716349422931671, best mse: 0.027411291375756264, best rmse: 0.16556355357170105
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+GTC_Transformer_2 in Wind with pred_len 24, best mae: 0.11655319482088089, best mse: 0.02730610780417919, best rmse: 0.16524559259414673
+configs: {"d_model": 512, "d_layers": 1, "block_layers": 2}
+-----------------------------------------------------------------
+iTransformer_1 in Wind with pred_len 24, best mae: 0.2020144760608673, best mse: 0.0685049518942833, best rmse: 0.2617345154285431
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+Informer_1 in Wind with pred_len 24, best mae: 0.13348093628883362, best mse: 0.03356766700744629, best rmse: 0.18321481347084045
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+GTC_Transformer_1 in Wind with pred_len 48, best mae: 0.12322372943162918, best mse: 0.0295628122985363, best rmse: 0.17193838953971863
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+GTC_Transformer_2 in Wind with pred_len 48, best mae: 0.12301043421030045, best mse: 0.029524529352784157, best rmse: 0.171827033162117
+configs: {"d_model": 512, "d_layers": 3, "block_layers": 1}
+-----------------------------------------------------------------
+iTransformer_1 in Wind with pred_len 48, best mae: 0.22177517414093018, best mse: 0.07753001153469086, best rmse: 0.2784421145915985
+configs: {"d_model": 512, "d_layers": 2, "block_layers": 1}
+-----------------------------------------------------------------
+Informer_1 in Wind with pred_len 48, best mae: 0.13597610592842102, best mse: 0.034134138375520706, best rmse: 0.18475426733493805
+configs: {"d_model": 512, "d_layers": 1, "block_layers": 1}
+-----------------------------------------------------------------
+GTC_Transformer_1 in Wind with pred_len 96, best mae: 0.13080719113349915, best mse: 0.0325191468000412, best rmse: 0.18033066391944885
+configs: {"d_model": 256, "d_layers": 3, "block_layers": 3}
+-----------------------------------------------------------------
+GTC_Transformer_2 in Wind with pred_len 96, best mae: 0.1307627409696579, best mse: 0.032509464770555496, best rmse: 0.18030381202697754
+configs: {"d_model": 256, "d_layers": 3, "block_layers": 2}
+-----------------------------------------------------------------
+iTransformer_1 in Wind with pred_len 96, best mae: 0.23652617633342743, best mse: 0.08713044971227646, best rmse: 0.29517868161201477
+configs: {"d_model": 512, "d_layers": 3, "block_layers": 1}
+-----------------------------------------------------------------
+Informer_1 in Wind with pred_len 96, best mae: 0.13767200708389282, best mse: 0.034882064908742905, best rmse: 0.18676741421222687
+configs: {"d_model": 512, "d_layers": 1, "block_layers": 1}
+-----------------------------------------------------------------
